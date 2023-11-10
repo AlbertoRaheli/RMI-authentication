@@ -1,0 +1,51 @@
+[
+  {
+    "role": {
+      "roleName":"admin",
+      "commands":[
+        "print",
+        "queue",
+        "topQueue",
+        "start",
+        "stop",
+        "restart",
+        "status",
+        "readConfig",
+        "setConfing"
+      ]
+    }
+  },
+  {
+    "role": {
+      "roleName":"technician",
+      "commands": [
+        "start",
+        "stop",
+        "restart",
+        "status",
+        "readConfig",
+        "setConfing"
+      ]
+    }
+  },
+  {
+    "role": {
+      "roleName":"power user",
+      "commands": [
+        "print",
+        "queue",
+        "topQueue",
+        "restart"
+      ]
+    }
+  },
+  {
+    "role": {
+      "roleName":"user",
+      "commands": [
+        "print",
+        "queue"
+      ]
+    }
+  }
+]

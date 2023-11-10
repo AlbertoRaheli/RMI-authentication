@@ -1,0 +1,105 @@
+[
+  {
+    "user": {
+      "username":"alice",
+      "salt": "XP9AEOnW",
+      "hash":"c0551b0d40b3645f05ef5fab42e72780856da8d8",
+      "commands":[
+        "print",
+        "queue",
+        "topQueue",
+        "start",
+        "stop",
+        "restart",
+        "status",
+        "readConfig",
+        "setConfing"
+      ]
+    }
+  },
+  {
+    "user": {
+      "username": "cecilia",
+      "salt": "joySuTpY",
+      "hash": "206dac5423929db924fdb9ff103150c8d65b5283",
+      "commands": [
+        "print",
+        "queue",
+        "topQueue",
+        "restart"
+      ]
+    }
+  },
+  {
+    "user": {
+      "username": "fred",
+      "salt": "0IU1w9d3",
+      "hash": "f31ddd08b7d3dcf5894b05a102e840b39cba05eb",
+      "commands": [
+        "print",
+        "queue"
+      ]
+    }
+  },
+  {
+    "user": {
+      "username": "george",
+      "salt": "TAq1JwLG",
+      "hash": "b89cf8fe1e38df3c3e57c944ccab2fd6f8214455",
+      "commands": [
+        "print",
+        "queue"
+      ]
+    }
+  },
+  {
+    "user": {
+      "username": "erica",
+      "salt": "eSnoGCpX",
+      "hash": "5852a51223e5d32d84b57b9534675d5a8e20eaa8",
+      "commands": [
+        "print",
+        "queue"
+      ]
+    }
+  },
+  {
+    "user": {
+      "username": "david",
+      "salt": "Mwm4F/wO",
+      "hash": "1398a37b297b8260a47f004c7a53b43188831e4a",
+      "commands": [
+        "start",
+        "stop",
+        "restart",
+        "status",
+        "readConfig",
+        "setConfing"
+      ]
+    }
+  },
+  {
+    "user": {
+      "username": "henry",
+      "salt": "1mejOaED",
+      "hash": "58afb8ccdb927fabbdabe30e34b878f3fe94c438",
+      "commands": [
+        "print",
+        "queue"
+      ]
+    }
+  },
+  {
+    "user": {
+      "username": "ida",
+      "salt": "849iKAQy",
+      "hash": "d267c5365646002e6712f4b6aee8ae8ce39ead69",
+      "commands": [
+        "print",
+        "queue",
+        "topQueue",
+        "restart"
+      ]
+    }
+  }
+]

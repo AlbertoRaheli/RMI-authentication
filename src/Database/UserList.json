@@ -1,0 +1,92 @@
+[
+  {
+    "user": {
+      "username":"alice",
+      "salt": "XP9AEOnW",
+      "hash":"c0551b0d40b3645f05ef5fab42e72780856da8d8",
+      "commands":[
+        "print",
+        "queue",
+        "topQueue",
+        "start",
+        "stop",
+        "restart",
+        "status",
+        "readConfig",
+        "setConfing"
+      ]
+    }
+  },
+  {
+    "user": {
+      "username": "bob",
+      "salt": "2XlTaz5S",
+      "hash": "40d6935ca0da398eb3014b7343ba34875d7ae258",
+      "commands": [
+        "start",
+        "stop",
+        "restart",
+        "status",
+        "readConfig",
+        "setConfing"
+      ]
+    }
+  },
+  {
+    "user": {
+      "username": "cecilia",
+      "salt": "joySuTpY",
+      "hash": "206dac5423929db924fdb9ff103150c8d65b5283",
+      "commands": [
+        "print",
+        "queue",
+        "topQueue",
+        "restart"
+      ]
+    }
+  },
+  {
+    "user": {
+      "username": "fred",
+      "salt": "0IU1w9d3",
+      "hash": "f31ddd08b7d3dcf5894b05a102e840b39cba05eb",
+      "commands": [
+        "print",
+        "queue"
+      ]
+    }
+  },
+  {
+    "user": {
+      "username": "george",
+      "salt": "TAq1JwLG",
+      "hash": "b89cf8fe1e38df3c3e57c944ccab2fd6f8214455",
+      "commands": [
+        "print",
+        "queue"
+      ]
+    }
+  },
+  {
+    "user": {
+      "username": "erica",
+      "salt": "eSnoGCpX",
+      "hash": "5852a51223e5d32d84b57b9534675d5a8e20eaa8",
+      "commands": [
+        "print",
+        "queue"
+      ]
+    }
+  },
+  {
+    "user": {
+      "username": "david",
+      "salt": "Mwm4F/wO",
+      "hash": "1398a37b297b8260a47f004c7a53b43188831e4a",
+      "commands": [
+        "print",
+        "queue"
+      ]
+    }
+  }
+]
